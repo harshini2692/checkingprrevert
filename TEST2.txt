@@ -2,6 +2,6 @@ am from test2 commitB
 as
 b
 c
-d
+d edited the existing d after revert
 5 commitD changed in develop branch
 added newly in develop branch and updated it after revert
